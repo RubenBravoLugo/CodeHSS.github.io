@@ -139,7 +139,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 
 
-        <a href="https://ibb.co/pdKTVvv"><img src="https://i.ibb.co/4pSLvZZ/re-CS-proof-3.png" alt="re-CS-proof-3" border="0"></a>
+        <a href="https://ibb.co/pdKTVvv"><img src="https://i.ibb.co/4pSLvZZ/re-CS-proof-3.png" alt="re-CS-proof-3" border="0" style="width: 980px;"> </a>
 
 
 
