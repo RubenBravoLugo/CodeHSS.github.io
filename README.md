@@ -1,4 +1,9 @@
-w
+
+
+
+<!-- cc snps Thank you to Yong Bmakos - Oregon State Cascades -->
+
+
 
 
 <html lang="en">
@@ -108,13 +113,21 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           
 
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Code HS</span></h6>
-
-
-        <a href="https://ibb.co/M8kW2xD"><img src="https://i.ibb.co/Q8vzb3F/CS-proof-11.png" alt="CS-proof-11" border="0"></a>
-
+<a href="https://ibb.co/0QwDCqS"><img src="https://i.ibb.co/9GM8bnL/re-CS-proof-1.png" alt="re-CS-proof-1" border="0"></a>
           <hr>
         </div>
         <div class="w3-container">
+
+
+        <a href="https://ibb.co/vBpMsc3"><img src="https://i.ibb.co/rtYXbQx/re-CS-proof-2.png" alt="re-CS-proof-2" border="0"></a>
+
+
+
+
+        <a href="https://ibb.co/pdKTVvv"><img src="https://i.ibb.co/4pSLvZZ/re-CS-proof-3.png" alt="re-CS-proof-3" border="0"></a>
+
+
+
           
 
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>other</h6>
@@ -132,7 +145,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 
 
-          </p><br>
+        <br>
         </div>
       </div>
 
