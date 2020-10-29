@@ -148,7 +148,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> </h6>
 
           
-          <p>   </p>
           <hr>
         </div>
         <div class="w3-container">
